@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400415299733",
+    "firebase_url": "https://pubg-1dcd3.firebaseio.com",
+    "project_id": "pubg-1dcd3",
+    "storage_bucket": "pubg-1dcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400415299733:android:4f960a6e2e78e8a9bca39c",
+        "android_client_info": {
+          "package_name": "com.marido.read"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400415299733-glc3e8h4kgvtlt98q6ulqim9nniam3aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-gp9B6yKX6rzufjV1bgNVf1fm2GB-Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400415299733-glc3e8h4kgvtlt98q6ulqim9nniam3aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
